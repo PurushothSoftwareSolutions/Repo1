@@ -1,4 +1,8 @@
 Hello EVeryone
 Good Morning
+<<<<<<< HEAD
 last commit was reverted
 
+=======
+Today is sunday
+>>>>>>> parent of 9769c90 (Revert "My third commit")
